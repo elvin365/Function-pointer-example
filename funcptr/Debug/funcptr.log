@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\elvin\source\repos\funcptr\funcptr\source.cpp(26): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  funcptr.vcxproj -> C:\Users\Elvin\source\repos\funcptr\Debug\funcptr.exe
